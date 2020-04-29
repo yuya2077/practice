@@ -1,0 +1,37 @@
+body {
+  color: #333;
+  font-family:Verdana, Geneva, Tahoma, sans-serif ;
+
+
+}
+
+
+header {
+  background-color: #d6f4fad5;
+}
+
+.container {
+  margin: 0;
+  /* background-color: rgba(1, 2, 0, 0.048) ; */
+  display: flex;
+
+}
+
+.foo {
+  background-color: aliceblue;
+  margin-top: 10px;
+  margin-left: 90px;
+  transform: scale(1.2,1.0)
+  
+}
+
+.foo h1 {
+  font-size: 60px;
+}
+
+.zee {
+  margin-left: 500px;
+  border-radius: 100%;
+
+ 
+}
